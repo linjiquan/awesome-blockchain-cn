@@ -60,6 +60,7 @@
 ### BitCoin 比特币
 
 - [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency) Cousera上的比特币教程 *(English)*
+- [Bitcoin browser](https://blockexplorer.com) 比特币区块浏览器
 
 ### Ethereum 以太坊
 
